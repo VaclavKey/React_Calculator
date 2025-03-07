@@ -35,4 +35,4 @@ This project is my first experience with React, and it turned out to be easier t
 ## Example
 
 Here's what the app looks like when running:
-![Calculator Example](assets/calculator-screenshot.png)
+![Calculator Example](src/assets/calculator-screenshot.png)
