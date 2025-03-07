@@ -18,7 +18,7 @@ This project is my first experience with React, and it turned out to be easier t
    git clone https://github.com/VaclavKey/React_Calculator.git
 2. Navigate to the project directory:
    ```bash
-   cd calculator
+   cd React_Calculator
 3. Install dependencies:
    ```bash
    npm install
