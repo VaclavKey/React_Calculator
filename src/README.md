@@ -32,3 +32,7 @@ This project is my first experience with React, and it turned out to be easier t
 - Press "=" to evaluate the expression
 - Press "C" to clear the expression
 
+## Example
+
+Here's what the app looks like when running:
+![Calculator Example](assets/calculator-screenshot.png)
