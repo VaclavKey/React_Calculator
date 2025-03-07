@@ -28,6 +28,7 @@ This project is my first experience with React, and it turned out to be easier t
 
 ## Usage
 
-- Click buttons to add it's label to expression
-- Click the "=" button to evaluate expression
-- Click the "C" button to clear expression
+- Click the buttons to add their label to the expression
+- Press "=" to evaluate the expression
+- Press "C" to clear the expression
+
